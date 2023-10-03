@@ -1,0 +1,23 @@
+2023-10-03 19:44:50 - Copied file: C:\Working\Veeam\Test1\Test1.txt to C:\Working\Veeam\Test2\Test1.txt
+2023-10-03 19:44:50 - Synchronization completed successfully
+2023-10-03 19:47:20 - Copied file: C:\Working\Veeam\Test1\Test1.txt to C:\Working\Veeam\Test2\Test2.txt
+2023-10-03 19:47:20 - Synchronization completed successfully
+2023-10-03 20:03:03 - Copied file: C:\Working\Veeam\Test1\Test1.txt to C:\Working\Veeam\Test2\Test2.txt
+2023-10-03 20:03:03 - Synchronization completed successfully
+2023-10-03 20:03:52 - Copied file: C:\Working\Veeam\Test1\Test1.txt to C:\Working\Veeam\Test2\Test2.txt
+2023-10-03 20:03:52 - Synchronization completed successfully
+2023-10-03 20:04:14 - Error code: Source folder does not exist: \Test1
+2023-10-03 20:04:43 - Deleted file: C:\Working\Veeam\Test2\Test2.txt
+2023-10-03 20:04:43 - Copied file: C:\Working\Veeam\Test1\Test1.txt to C:\Working\Veeam\Test1\Test1.txt
+2023-10-03 20:04:43 - Synchronization completed successfully
+2023-10-03 20:04:58 - Copied file: C:\Working\Veeam\Test1\Test1.txt to C:\Working\Veeam\Test1\Test1.txt
+2023-10-03 20:04:58 - Synchronization completed successfully
+2023-10-03 20:05:34 - Copied file: C:\Working\Veeam\Test1\File_test.txt to C:\Working\Veeam\Test1\File_test.txt
+2023-10-03 20:05:34 - Synchronization completed successfully
+2023-10-03 20:07:05 - Copied file: C:\Working\Veeam\Test1\File_test.txt to C:\Working\Veeam\Test1\File_test.txt
+2023-10-03 20:07:05 - Synchronization completed successfully
+2023-10-03 20:07:12 - Copied file: C:\Working\Veeam\Test1\File_test.txt to C:\Working\Veeam\Test1\File_test.txt
+2023-10-03 20:07:12 - Synchronization completed successfully
+2023-10-03 20:07:36 - Error code: Source folder does not exist: \Test1\
+2023-10-03 20:07:47 - Copied file: C:\Working\Veeam\Test1\File_test.txt to C:\Working\Veeam\Test2\File_test.txt
+2023-10-03 20:07:47 - Synchronization completed successfully
